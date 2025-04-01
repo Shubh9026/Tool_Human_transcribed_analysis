@@ -1,0 +1,91 @@
+video_filename,timestamp,transcription,sentiment_model_1,confidence_model_1,sentiment_model_2_top_1,confidence_model_2_top_1,sentiment_model_2_top_2,confidence_model_2_top_2
+new_video.mp4,0 sec,,1,0.4012986421585083,neutral,0.9549601674079895,approval,0.022920342162251472
+new_video.mp4,5 sec,,1,0.4012986421585083,neutral,0.9549601674079895,approval,0.022920342162251472
+new_video.mp4,10 sec," Okay, so the drive you're going to complete and use the automation and the object.",0,0.8557081818580627,neutral,0.7471320629119873,approval,0.22251950204372406
+new_video.mp4,15 sec," and the object detection system, so that it will not need to operate vehicle. So keep your hands up.",0,0.6755688786506653,neutral,0.9496555924415588,approval,0.021314866840839386
+new_video.mp4,20 sec," So keep your hands off the steering wheel and heat up the pedals, much better than that drive. Okay.",0,0.48763197660446167,approval,0.5326653718948364,neutral,0.37871721386909485
+new_video.mp4,25 sec," Okay, so when you see that some driver indicator highlight green make sure you don't hit the brake at any point during",0,0.8296448588371277,neutral,0.8416078090667725,approval,0.08591541647911072
+new_video.mp4,30 sec," at any point during the drive. This dot, the car cab look out, we'll have the hoodie, yes.",0,0.7445299029350281,neutral,0.8392329216003418,approval,0.17236846685409546
+new_video.mp4,35 sec, have been hooded yes for getting visual feedback for targets that are in the environment. The car cab will look out.,0,0.8279735445976257,neutral,0.9573165774345398,approval,0.040113095194101334
+new_video.mp4,40 sec," our cabbillock house of Patents, and to that screen to aid them, everyone else during the mission.",0,0.8465063571929932,neutral,0.9568563103675842,approval,0.02591395378112793
+new_video.mp4,45 sec, mission. Remember to tap the targets on that ODS as well as completing those workstation,0,0.7415990829467773,neutral,0.828249454498291,caring,0.11505095660686493
+new_video.mp4,50 sec,iqued talks.,0,0.7928986549377441,neutral,0.963860034942627,approval,0.013846982270479202
+new_video.mp4,55 sec," So all drivers, picture fit on the brake.",0,0.8396886587142944,neutral,0.9507930278778076,approval,0.03345907852053642
+new_video.mp4,60 sec, You now remove your foot from the brake until I instruct you to remove it.,0,0.8980410099029541,neutral,0.9508292078971863,annoyance,0.024960385635495186
+new_video.mp4,65 sec, or cab driver you may start the car.,0,0.9110399484634399,neutral,0.9638832211494446,approval,0.015759587287902832
+new_video.mp4,70 sec, more drivers with your foot still on the brake and on the braking.,0,0.7656430602073669,neutral,0.9633134007453918,approval,0.013084175996482372
+new_video.mp4,75 sec, You drove through me.,0,0.6187187433242798,neutral,0.9532475471496582,approval,0.021326683461666107
+new_video.mp4,80 sec, ruin me,-1,0.8137162327766418,neutral,0.24334821105003357,sadness,0.16689443588256836
+new_video.mp4,85 sec, or cab driver.,0,0.8169165253639221,neutral,0.9690098762512207,approval,0.010569507256150246
+new_video.mp4,90 sec, Probably a big deal. I without lose. Any other go back.,0,0.6414114832878113,neutral,0.9021636247634888,approval,0.07268646359443665
+new_video.mp4,95 sec, that. Car cab driver and only the car cab driver. Mm-hmm. Yeah.,0,0.7378840446472168,neutral,0.8346248269081116,approval,0.11208464950323105
+new_video.mp4,100 sec," Yes. Yeah, right. Make sure everyone isn't dry.",0,0.556671142578125,approval,0.5974172353744507,neutral,0.3802371621131897
+new_video.mp4,105 sec, I am now in drive.,0,0.8225475549697876,neutral,0.9486363530158997,approval,0.032516829669475555
+new_video.mp4,110 sec, only the car kept driver. Maybe it moving forward.,0,0.8751797080039978,neutral,0.819388210773468,confusion,0.32965579628944397
+new_video.mp4,115 sec, Then I drove through...,0,0.8642277121543884,neutral,0.9662983417510986,approval,0.011257806792855263
+new_video.mp4,120 sec, We're now with some driver on.,0,0.8280499577522278,neutral,0.9588273763656616,approval,0.020080339163541794
+new_video.mp4,125 sec, some driver on.,0,0.7531143426895142,neutral,0.9707871675491333,approval,0.009842771105468273
+new_video.mp4,130 sec, first down the scooter,0,0.8046734929084778,neutral,0.9683292508125305,annoyance,0.009910342283546925
+new_video.mp4,135 sec, What color skater gotta have on the bike because of how denied,0,0.8433041572570801,neutral,0.7731274962425232,disappointment,0.14704987406730652
+new_video.mp4,140 sec," Scooter. Yeah, has a press button back.",1,0.5745518803596497,neutral,0.9176076054573059,approval,0.07071058452129364
+new_video.mp4,145 sec, healy leave full,0,0.7688845992088318,neutral,0.9637500643730164,approval,0.012619997374713421
+new_video.mp4,150 sec," It's driving, out of it.",0,0.6442660093307495,neutral,0.9608491659164429,approval,0.014289923943579197
+new_video.mp4,155 sec, I see scooters on both sides of the road.,0,0.8058753609657288,neutral,0.9374077320098877,approval,0.02955794148147106
+new_video.mp4,160 sec, signs of the road.,0,0.7920717597007751,neutral,0.9690039157867432,approval,0.013055520132184029
+new_video.mp4,165 sec," Not motorcycles. Ah, yeah, that's on the left side of the road.",0,0.7550846338272095,neutral,0.6765373349189758,approval,0.33935630321502686
+new_video.mp4,170 sec, other uh passing now,0,0.8803425431251526,neutral,0.7689011096954346,sadness,0.3707251250743866
+new_video.mp4,175 sec, Yeah. That was a lot of practice. That's it.,0,0.6328483819961548,neutral,0.5323797464370728,approval,0.4998631775379181
+new_video.mp4,180 sec,,1,0.4012986421585083,neutral,0.9549601674079895,approval,0.022920342162251472
+new_video.mp4,185 sec, Do you have any target?,0,0.9351975321769714,curiosity,0.6118261814117432,neutral,0.4129473865032196
+new_video.mp4,190 sec," Not yet. I hit target at 10.5 but... Yes, well.",0,0.6353256702423096,neutral,0.4502613842487335,approval,0.3128105401992798
+new_video.mp4,195 sec," But... Yes, well...",0,0.6280621886253357,approval,0.5147016644477844,neutral,0.4900268018245697
+new_video.mp4,200 sec, Those motorcycles were giving me a car.,0,0.6702879667282104,neutral,0.8433823585510254,desire,0.03716694936156273
+new_video.mp4,205 sec," Red car that's kind of beat up. There's a box on the roof. Yeah, pass it.",-1,0.7980402708053589,neutral,0.754764974117279,approval,0.11866151541471481
+new_video.mp4,210 sec, Pass R.C. It's at 10 o'clock.,0,0.9367225170135498,neutral,0.9597761631011963,approval,0.020424863323569298
+new_video.mp4,215 sec, I think we used an aspect,0,0.875605583190918,neutral,0.8395542502403259,approval,0.08719700574874878
+new_video.mp4,220 sec," I'm passing now. Yep. Yeah, we're also passing now.",1,0.6642550230026245,sadness,0.4904773235321045,neutral,0.19582350552082062
+new_video.mp4,225 sec, We're also passing it out. R1.,0,0.9276664853096008,neutral,0.9599919319152832,approval,0.031018773093819618
+new_video.mp4,230 sec,,1,0.4012986421585083,neutral,0.9549601674079895,approval,0.022920342162251472
+new_video.mp4,235 sec, Why is a car 3 so far behind car 2?,0,0.635833740234375,neutral,0.47653868794441223,confusion,0.4447161555290222
+new_video.mp4,240 sec, Yes.,0,0.5688074231147766,neutral,0.8754932880401611,approval,0.09390447288751602
+new_video.mp4,245 sec,,1,0.4012986421585083,neutral,0.9549601674079895,approval,0.022920342162251472
+new_video.mp4,250 sec,,1,0.4012986421585083,neutral,0.9549601674079895,approval,0.022920342162251472
+new_video.mp4,255 sec,,1,0.4012986421585083,neutral,0.9549601674079895,approval,0.022920342162251472
+new_video.mp4,260 sec, parts yeah just the,0,0.8362729549407959,neutral,0.9474213719367981,approval,0.03582874312996864
+new_video.mp4,265 sec, Is the OTS working? Yes. Sometimes the ASS have been bugged.,0,0.5839975476264954,curiosity,0.32529112696647644,confusion,0.2530403435230255
+new_video.mp4,270 sec, Let's get a cigarette. No one here has a drink but they books. Just identify how her voice is. seguir,0,0.797731876373291,neutral,0.9404663443565369,approval,0.026245079934597015
+new_video.mp4,275 sec," No, you won't see anything, but that might see something in the passenger seat of Dodia.",0,0.8437594175338745,neutral,0.8427528142929077,confusion,0.13382957875728607
+new_video.mp4,280 sec, The state of the ODS is parking. It should be a wide car right now.,-1,0.8325635194778442,neutral,0.9525349736213684,approval,0.02704894170165062
+new_video.mp4,285 sec, I know. Why? I don't know. S-U-V-L-A-T,0,0.6015067100524902,confusion,0.9141615629196167,neutral,0.15352356433868408
+new_video.mp4,290 sec, The easily tells that the stand will serve,0,0.7896261811256409,neutral,0.9567842483520508,approval,0.02595827542245388
+new_video.mp4,295 sec, or SUVs SUVs,0,0.791144847869873,neutral,0.966330885887146,approval,0.009261006489396095
+new_video.mp4,300 sec, I see a camel.,0,0.7801002860069275,neutral,0.9603885412216187,approval,0.013085013255476952
+new_video.mp4,305 sec, I,0,0.4680517017841339,neutral,0.9658253192901611,approval,0.016628237441182137
+new_video.mp4,310 sec, We got cars coming up. There's a driving,0,0.8066727519035339,neutral,0.9424759745597839,approval,0.017704883590340614
+new_video.mp4,315 sec," driving white car on the left. Yeah, and then we'll go to the left.",0,0.8651873469352722,neutral,0.9096503257751465,approval,0.059991978108882904
+new_video.mp4,320 sec," You are in the left, and I'm Bob gonna start pa粗 buddy I'd say Is it tornado? Ok",0,0.8403902053833008,neutral,0.7505907416343689,curiosity,0.10752034187316895
+new_video.mp4,325 sec, I think that was it. Yeah. We have another way to...,0,0.7724369168281555,approval,0.5700098276138306,neutral,0.3545839190483093
+new_video.mp4,330 sec, have another white SUV and passing,0,0.8364338278770447,neutral,0.9697909355163574,approval,0.011919907294213772
+new_video.mp4,335 sec," Yeah, passing that one left now.",0,0.8392184972763062,neutral,0.9247525334358215,approval,0.033909864723682404
+new_video.mp4,340 sec, Imp gegen,0,0.6579533219337463,neutral,0.9647701382637024,approval,0.01041106041520834
+new_video.mp4,345 sec, Passing versions...,0,0.8273167610168457,neutral,0.9682146906852722,approval,0.01072237454354763
+new_video.mp4,350 sec, passing military checkpoint,0,0.795005738735199,neutral,0.9669702649116516,approval,0.013685395941138268
+new_video.mp4,355 sec, Oh,0,0.5322705507278442,neutral,0.9620479345321655,approval,0.02159835956990719
+new_video.mp4,360 sec, we don't wait�만. I don't really like getting my laptop free. Too much Pr decreasing.,-1,0.8997431993484497,disapproval,0.7187891602516174,neutral,0.1947728544473648
+new_video.mp4,365 sec, and there was a cable columns...,0,0.7439661622047424,neutral,0.9675011038780212,approval,0.008315837942063808
+new_video.mp4,370 sec, and it's not like model. Yeah. It's a car. I'm a model. Yeah.,1,0.5497415661811829,neutral,0.5887498259544373,approval,0.27486637234687805
+new_video.mp4,375 sec, Yeah,1,0.46934774518013,neutral,0.945986270904541,approval,0.03502235934138298
+new_video.mp4,380 sec,,1,0.4012986421585083,neutral,0.9549601674079895,approval,0.022920342162251472
+new_video.mp4,385 sec,,1,0.4012986421585083,neutral,0.9549601674079895,approval,0.022920342162251472
+new_video.mp4,390 sec," Jack, do you feel like this is giving you enough to understand?",0,0.8276062607765198,curiosity,0.6618815064430237,neutral,0.27924850583076477
+new_video.mp4,395 sec," Understand or do you want to continue? Yeah, I think is",0,0.7724161744117737,confusion,0.5471616983413696,curiosity,0.4445452094078064
+new_video.mp4,400 sec, I think it's how about you comment it. I think it's enough.,0,0.7696146965026855,approval,0.5507991909980774,neutral,0.404874712228775
+new_video.mp4,405 sec, I think he's enough. I mean I'm having fun but we can stop if you want to.,1,0.5803666710853577,joy,0.6964362263679504,approval,0.3407071530818939
+new_video.mp4,410 sec, Wow.. yeah we kill it,1,0.965150773525238,neutral,0.16628074645996094,surprise,0.16007450222969055
+new_video.mp4,415 sec, So all drivers. Well.,0,0.7662835717201233,neutral,0.9577698707580566,approval,0.02326175943017006
+new_video.mp4,420 sec," Okay, command of breaking out.",0,0.8293752074241638,neutral,0.9264279007911682,approval,0.057566653937101364
+new_video.mp4,425 sec, of breaking down.,-1,0.5155177712440491,neutral,0.8320997953414917,sadness,0.2285098135471344
+new_video.mp4,430 sec, Please don't run through me.,-1,0.761731743812561,neutral,0.49373337626457214,annoyance,0.23643356561660767
+new_video.mp4,435 sec, Please don't run through me. No. We've been rear-ended.,-1,0.7570163607597351,disapproval,0.5692707896232605,neutral,0.25005146861076355
+new_video.mp4,440 sec, been rear-ended in park now,0,0.5433599948883057,neutral,0.9615044593811035,annoyance,0.01203866209834814
+new_video.mp4,445 sec, now.,0,0.7140246629714966,neutral,0.9649651646614075,approval,0.009049652144312859

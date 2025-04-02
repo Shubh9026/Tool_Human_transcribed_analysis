@@ -25,10 +25,13 @@ This project analyzes conversations from **driving simulation experiments**, ext
 It is **highly recommended** to run this project inside a virtual environment.  
 
 
+
+
+```bash
+
 ## CLone the Repositry
 git clone https://github.com/Shubh9026/Tool_Human_transcribed_analysis.git
 
-```bash
 # Create a virtual environment (Python 3.8+ recommended)
 python -m venv env  
 

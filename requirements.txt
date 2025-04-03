@@ -7,3 +7,4 @@ whisper
 transformers
 torch
 python-dotenv
+streamlit

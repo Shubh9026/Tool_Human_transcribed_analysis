@@ -24,7 +24,7 @@ This project analyzes conversations from **driving simulation experiments**, ext
 ### 1️⃣ Create & Activate a Virtual Environment  
 It is **highly recommended** to run this project inside a virtual environment.  
 
-
+## You can also Run this using docker.
 
 
 ```bash

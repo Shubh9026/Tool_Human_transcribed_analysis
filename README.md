@@ -18,13 +18,15 @@ This project analyzes conversations from **driving simulation experiments**, ext
 
 ### 🔹 Output  
 - **CSV File (`output_sentiment.csv`)** – Processed sentiment data  
-- **JSON File (`output_sentiment.json`)** – Structured sentiment data  
+- **JSON File (`output_sentiment.json`)** – Structured sentiment data
+
+  ## You can also Run this using docker.
 
 ## 🛠 Installation & Setup  
 ### 1️⃣ Create & Activate a Virtual Environment  
 It is **highly recommended** to run this project inside a virtual environment.  
 
-## You can also Run this using docker.
+
 
 
 ```bash
